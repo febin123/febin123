@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my Portfolio website
+- 🔭 I’m currently working on ... Shopping Cart website using REACTjs
 - 🌱 I’m currently learning ... Javascript, Reactjs
 - 📫 How to reach me: ... https://febin-skariya.netlify.app/
 <!--
